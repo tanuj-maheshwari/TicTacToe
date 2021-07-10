@@ -46,7 +46,7 @@ The 3 difficulties are as follows :-
 
 1. **Easy** :- The computer moves randomly in empty spaces.
 2. **Medium** :- The computer tries to prevent your victory and simultaneously tries to win for itself. If no such cells are available, it will move randomly.
-3. **Impossible** :- The game in this difficulty can either result in a tie or a loss of the user. \*This version is implemented using a **depth-optimised version** of the standard minimax algorithm with **alpha-beta pruning\***.
+3. **Impossible** :- The game in this difficulty can either result in a tie or a loss of the user. *This version is implemented using a **depth-optimised version** of the standard minimax algorithm with **alpha-beta pruning***.
 
 The computer moves after each of the player's moves (who goes first). The updated grid will be shown after every move for available valid moves.
 
